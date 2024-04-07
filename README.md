@@ -1,5 +1,8 @@
 # keerky
 The Large-Language Model Operating System.
+- https://arxiv.org/html/2404.01744v2
+- https://twitter.com/adcock_brett/status/1777004297143603322
+
 
 ## MVP
 - Tool-enabled LLM model
